@@ -12,7 +12,7 @@ Este é o frontend de um sistema para assistência técnica e vendas, desenvolvi
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
+   git clone https://github.com/eobarretooo/projeto-loja.git
    ```
 2. Acesse a pasta do frontend:
    ```bash
