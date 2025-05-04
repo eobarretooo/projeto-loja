@@ -110,5 +110,5 @@ backend/
 Pull requests são bem-vindos! Abra uma issue para discutir mudanças antes de contribuir.
 
 ## Licença
-Este projeto é open-source sob a licença MIT.
+Este projeto é open-source sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
